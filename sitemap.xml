@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/10/24/vue%E4%BC%9A%E8%AE%AE%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E6%8F%92%E4%BB%B6/</loc>
+    <loc>https://smiles73.github.io/2023/10/24/vue%E4%BC%9A%E8%AE%AE%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E6%8F%92%E4%BB%B6/</loc>
     
     <lastmod>2023-10-24</lastmod>
     
@@ -12,7 +12,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://smiles73.github.io/</loc>
     <lastmod>2023-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -20,14 +20,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E7%BB%84%E4%BB%B6/</loc>
+    <loc>https://smiles73.github.io/tags/%E7%BB%84%E4%BB%B6/</loc>
     <lastmod>2023-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/vue2/</loc>
+    <loc>https://smiles73.github.io/tags/vue2/</loc>
     <lastmod>2023-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -36,7 +36,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/vue/</loc>
+    <loc>https://smiles73.github.io/categories/vue/</loc>
     <lastmod>2023-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

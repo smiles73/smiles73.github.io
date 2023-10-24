@@ -1,5 +1,5 @@
-http://example.com/2023/10/24/vue%E4%BC%9A%E8%AE%AE%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E6%8F%92%E4%BB%B6/
-http://example.com/
-http://example.com/tags/%E7%BB%84%E4%BB%B6/
-http://example.com/tags/vue2/
-http://example.com/categories/vue/
+https://smiles73.github.io/2023/10/24/vue%E4%BC%9A%E8%AE%AE%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E6%8F%92%E4%BB%B6/
+https://smiles73.github.io/
+https://smiles73.github.io/tags/%E7%BB%84%E4%BB%B6/
+https://smiles73.github.io/tags/vue2/
+https://smiles73.github.io/categories/vue/
