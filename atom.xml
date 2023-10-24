@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>现在有明天</title>
   
-  
+  <subtitle>没有比脚更长的路，走过去，前面是个天！</subtitle>
   <link href="https://smiles73.github.io/atom.xml" rel="self"/>
   
   <link href="https://smiles73.github.io/"/>
   <updated>2023-10-24T07:31:36.499Z</updated>
   <id>https://smiles73.github.io/</id>
-  
-  <author>
-    <name>John Doe</name>
-    
-  </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
